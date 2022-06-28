@@ -196,7 +196,7 @@ main {
   font-weight: 700;
 }
 
-.wallpaper {
+.wallpaper{
   width: 100%;
   background-image: url('./images/wallpaper.jpg');
   background-size: cover;
